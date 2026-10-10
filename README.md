@@ -15,3 +15,4 @@
 ## 🚀 شروع سریع
 
 - جلسه ۱ — گیت و GitHub: [مقدمه‌ای بر گیت](sessions/1-intro-git/01-git-intro.md) · [ساخت حساب GitHub](sessions/1-intro-git/02-github-account.md) · [ساخت رپازیتوری تست](sessions/1-intro-git/03-test-repo.md)
+- آموزش جامع Markdown: [مشاهده](resources/markdown-guide.md) — برای نوشتن گزارش تمرین‌ها
